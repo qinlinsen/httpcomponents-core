@@ -39,7 +39,7 @@ public class HttpRequestTest {
         while (headerIterator.hasNext()){
             System.out.println(headerIterator.next());
         }
-        
+
     }
 }
 
